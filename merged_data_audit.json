@@ -1,0 +1,1523 @@
+{
+  "totals": {
+    "domains": 4,
+    "standards": 10,
+    "indicators": 49,
+    "evidence": 129
+  },
+  "missing_drive_matches": [],
+  "domains": [
+    {
+      "id": "01",
+      "name": "الإدارة المدرسية",
+      "accent": "teal",
+      "standards": [
+        {
+          "id": "01-1",
+          "name": "التخطيط",
+          "indicators": [
+            {
+              "code": "1-1-1-1",
+              "text": "تضع المدرسة خطة تشغيلية مكتملة العناصر، وفق أهداف تطويرية محددة.",
+              "ownerHint": "مدير المدرسة",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "1-1-1-1~1",
+                  "title": "سجل الخطة التشغيلية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة",
+                  "driveUrl": "https://drive.google.com/drive/folders/15FoOI7NPzO6adOb9Tye9f2MY68DIZnCy",
+                  "folderId": "15FoOI7NPzO6adOb9Tye9f2MY68DIZnCy"
+                },
+                {
+                  "id": "1-1-1-1~2",
+                  "title": "سجل برامج الخطة التشغيلية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة",
+                  "driveUrl": "https://drive.google.com/drive/folders/1OI9Wy6uVzxBeAnJ0WqIZ78KFnkvQR7Un",
+                  "folderId": "1OI9Wy6uVzxBeAnJ0WqIZ78KFnkvQR7Un"
+                },
+                {
+                  "id": "1-1-1-1~3",
+                  "title": "سجل التكليفات.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة",
+                  "driveUrl": "https://drive.google.com/drive/folders/1Yl48eCrUv6hIeYtm7rOi9SDciYzSBvag",
+                  "folderId": "1Yl48eCrUv6hIeYtm7rOi9SDciYzSBvag"
+                },
+                {
+                  "id": "1-1-1-1~4",
+                  "title": "سجل اللجان المدرسية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة",
+                  "driveUrl": "https://drive.google.com/drive/folders/10KLKprZA5vsyL_HoQLxCJ-E3X6z66Kin",
+                  "folderId": "10KLKprZA5vsyL_HoQLxCJ-E3X6z66Kin"
+                }
+              ]
+            },
+            {
+              "code": "1-1-1-2",
+              "text": "تتابع المدرسة تنفيذ خطتها وتطورها بما يضمن تحقيق أهدافها.",
+              "ownerHint": "مدير المدرسة",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "1-1-1-2~1",
+                  "title": "سجل الخطة التشغيلية (قسم المتابعة والتقويم).",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة",
+                  "driveUrl": "https://drive.google.com/drive/folders/1-6iSFoiEcOou5WBQy8vWuF2XkcaOihvB",
+                  "folderId": "1-6iSFoiEcOou5WBQy8vWuF2XkcaOihvB"
+                },
+                {
+                  "id": "1-1-1-2~2",
+                  "title": "سجل برامج النشاط والإرشاد.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة",
+                  "driveUrl": "https://drive.google.com/drive/folders/16yV2suhUjHRL3ETaM8kOH1HMFuOkj6pv",
+                  "folderId": "16yV2suhUjHRL3ETaM8kOH1HMFuOkj6pv"
+                },
+                {
+                  "id": "1-1-1-2~3",
+                  "title": "سجل اللجنة الإدارية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة",
+                  "driveUrl": "https://drive.google.com/drive/folders/1YDSk2Avmk8v0yyLUsma83wZINTekt9-F",
+                  "folderId": "1YDSk2Avmk8v0yyLUsma83wZINTekt9-F"
+                },
+                {
+                  "id": "1-1-1-2~4",
+                  "title": "سجل توثيق البرامج.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة",
+                  "driveUrl": "https://drive.google.com/drive/folders/1htPSTxePtdQ-CF8ngz0h6lAcwtKuIiDb",
+                  "folderId": "1htPSTxePtdQ-CF8ngz0h6lAcwtKuIiDb"
+                },
+                {
+                  "id": "1-1-1-2~5",
+                  "title": "سجل تطوير وتحسين الخطة التشغيلية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة",
+                  "driveUrl": "https://drive.google.com/drive/folders/1HL9D28RfKAa29529PmHN1obQRPC0NvjQ",
+                  "folderId": "1HL9D28RfKAa29529PmHN1obQRPC0NvjQ"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "01-2",
+          "name": "قيادة العملية التعليمية",
+          "indicators": [
+            {
+              "code": "1-1-2-1",
+              "text": "تعزز المدرسة القيم الإسلامية والهوية الوطنية.",
+              "ownerHint": "رائد النشاط / الموجه الطلابي",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "1-1-2-1~1",
+                  "title": "سجل التوجيه والإرشاد.",
+                  "kind": "شاهد توثيقي",
+                  "role": "رائد النشاط / الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/1TmXAJ4K37kR8ZspGL6P50iyLb5mCucOi",
+                  "folderId": "1TmXAJ4K37kR8ZspGL6P50iyLb5mCucOi"
+                },
+                {
+                  "id": "1-1-2-1~2",
+                  "title": "سجل الأنشطة والبرامج.",
+                  "kind": "شاهد توثيقي",
+                  "role": "رائد النشاط / الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/1o4irlOOiOY7pTcF4AmewngZMZynnUl0p",
+                  "folderId": "1o4irlOOiOY7pTcF4AmewngZMZynnUl0p"
+                }
+              ]
+            },
+            {
+              "code": "1-2-1-2",
+              "text": "تلتزم المدرسة بقيم مهنة التعليم وأخلاقياتها.",
+              "ownerHint": "مدير المدرسة / وكيل الشؤون التعليمية / رائد النشاط / الموجه الطلابي",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "1-2-1-2~1",
+                  "title": "سجل الاجتماعات.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون التعليمية / رائد النشاط / الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/14wFOqBqzbHfbej9EUntHSRHRFmRmMuZR",
+                  "folderId": "14wFOqBqzbHfbej9EUntHSRHRFmRmMuZR"
+                },
+                {
+                  "id": "1-2-1-2~2",
+                  "title": "سجل البرامج والأنشطة.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون التعليمية / رائد النشاط / الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/1JQz0WNdrD8w645DthVoCZXVNQh4w6i6l",
+                  "folderId": "1JQz0WNdrD8w645DthVoCZXVNQh4w6i6l"
+                },
+                {
+                  "id": "1-2-1-2~3",
+                  "title": "سجل التبليغات والنشرات.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون التعليمية / رائد النشاط / الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/1vt1hoIBLZE8Qm319D6-iqpskVpnxr6tu",
+                  "folderId": "1vt1hoIBLZE8Qm319D6-iqpskVpnxr6tu"
+                },
+                {
+                  "id": "1-2-1-2~4",
+                  "title": "خطة متابعة السلوك الوظيفي.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون التعليمية / رائد النشاط / الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/1D6eoJ6Yo3N-KAy3daY157VHia3_-lNfD",
+                  "folderId": "1D6eoJ6Yo3N-KAy3daY157VHia3_-lNfD"
+                },
+                {
+                  "id": "1-2-1-2~5",
+                  "title": "سجل التوجيه والإرشاد.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون التعليمية / رائد النشاط / الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/1-LLiNhtyXaU2jC6DyQtbw5jyONO5d1_r",
+                  "folderId": "1-LLiNhtyXaU2jC6DyQtbw5jyONO5d1_r"
+                },
+                {
+                  "id": "1-2-1-2~6",
+                  "title": "سجل المخالفات.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون التعليمية / رائد النشاط / الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/1mOE9QHiu4E03FpO9phQ-XUCJ3FdVfxmd",
+                  "folderId": "1mOE9QHiu4E03FpO9phQ-XUCJ3FdVfxmd"
+                },
+                {
+                  "id": "1-2-1-2~7",
+                  "title": "سجل استئذان الموظفين.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون التعليمية / رائد النشاط / الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/1zst3wZLo_v5p_UJFpplKWEx0vZjljagw",
+                  "folderId": "1zst3wZLo_v5p_UJFpplKWEx0vZjljagw"
+                },
+                {
+                  "id": "1-2-1-2~8",
+                  "title": "سجل التحفيز والتكريم.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون التعليمية / رائد النشاط / الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/1BIAirLrW996DYJCX6HbtrTUqEgGO9h_S",
+                  "folderId": "1BIAirLrW996DYJCX6HbtrTUqEgGO9h_S"
+                },
+                {
+                  "id": "1-2-1-2~9",
+                  "title": "سجل حصر الغياب والتأخر.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون التعليمية / رائد النشاط / الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/1J5_MZ7P64LGf2C2fDPVx9X_N6hqVHjE0",
+                  "folderId": "1J5_MZ7P64LGf2C2fDPVx9X_N6hqVHjE0"
+                }
+              ]
+            },
+            {
+              "code": "1-2-1-3",
+              "text": "توفر المدرسة مناخاً آمناً للتعلم والنمو نفسياً واجتماعياً.",
+              "ownerHint": "وكيل الشؤون التعليمية / رائد النشاط",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "1-2-1-3~1",
+                  "title": "سجل البرامج الوقائية والعلاجية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1oxfNjm2nRKBW1R-buBgYhPV30eFF2rtR",
+                  "folderId": "1oxfNjm2nRKBW1R-buBgYhPV30eFF2rtR"
+                },
+                {
+                  "id": "1-2-1-3~2",
+                  "title": "سجل التوجيه والإرشاد.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1ARhQHSiXja_dUdgZflj21TYOzhkkGd-d",
+                  "folderId": "1ARhQHSiXja_dUdgZflj21TYOzhkkGd-d"
+                },
+                {
+                  "id": "1-2-1-3~3",
+                  "title": "سجل مجالس الحوار الطلابي.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1p5uWK7HNOcaOw23iMHlUY8Cu0hQqDC8S",
+                  "folderId": "1p5uWK7HNOcaOw23iMHlUY8Cu0hQqDC8S"
+                },
+                {
+                  "id": "1-2-1-3~4",
+                  "title": "سجل المخالفات السلوكية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1PbzGyLxasTIFtHQ5q0LIk1Hg5RYV3zqJ",
+                  "folderId": "1PbzGyLxasTIFtHQ5q0LIk1Hg5RYV3zqJ"
+                },
+                {
+                  "id": "1-2-1-3~5",
+                  "title": "سجل الحالات الطارئة.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1y8-vO_5M7--jVUmzxp_iD-aN7Y_eUIv0",
+                  "folderId": "1y8-vO_5M7--jVUmzxp_iD-aN7Y_eUIv0"
+                }
+              ]
+            },
+            {
+              "code": "1-2-1-4",
+              "text": "تنشر المدرسة قواعد السلوك والمواظبة، وتتابع تطبيقها.",
+              "ownerHint": "وكيل الشؤون الطلابية / الموجه الطلابي",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "1-2-1-4~1",
+                  "title": "سجل التوجيه والإرشاد.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون الطلابية / الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/16w1TH1HySs-FDz6_V4B0YNgcgg_Q4bxY",
+                  "folderId": "16w1TH1HySs-FDz6_V4B0YNgcgg_Q4bxY"
+                },
+                {
+                  "id": "1-2-1-4~2",
+                  "title": "سجل الانضباط المدرسي.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون الطلابية / الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/1L3b9RNbxa-E6ZiNnjC0C6hif78f98DIS",
+                  "folderId": "1L3b9RNbxa-E6ZiNnjC0C6hif78f98DIS"
+                },
+                {
+                  "id": "1-2-1-4~3",
+                  "title": "سجل التوقيع من قواعد السلوك والمواظبة.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون الطلابية / الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/1Zm1NUcvSdzYLOWrmyCJjkUjg8hErpOig",
+                  "folderId": "1Zm1NUcvSdzYLOWrmyCJjkUjg8hErpOig"
+                },
+                {
+                  "id": "1-2-1-4~4",
+                  "title": "سجل الحالات الطارئة.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون الطلابية / الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/1Ul80NM-2ppOXciiNeb_n_Pf5FBGzMe6O",
+                  "folderId": "1Ul80NM-2ppOXciiNeb_n_Pf5FBGzMe6O"
+                },
+                {
+                  "id": "1-2-1-4~5",
+                  "title": "سجل المخالفات السلوكية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون الطلابية / الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/1tM78YI5eJXVGeJ3DpWTBiAQMfCJ3aXWa",
+                  "folderId": "1tM78YI5eJXVGeJ3DpWTBiAQMfCJ3aXWa"
+                },
+                {
+                  "id": "1-2-1-4~6",
+                  "title": "سجل البرامج العلاجية والوقائية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون الطلابية / الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/1OlTvVkmDdD5WEGSFB2N2TVUYZUf44Vx0",
+                  "folderId": "1OlTvVkmDdD5WEGSFB2N2TVUYZUf44Vx0"
+                },
+                {
+                  "id": "1-2-1-4~7",
+                  "title": "سجل تعزيز السلوك الإيجابي.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون الطلابية / الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/1l8ZSvNcfona3BvKpXIKI__Tk2nY_3Ur4",
+                  "folderId": "1l8ZSvNcfona3BvKpXIKI__Tk2nY_3Ur4"
+                }
+              ]
+            },
+            {
+              "code": "1-2-1-5",
+              "text": "توفر المدرسة برامج وأنشطة تربوية داعمة للسلوك الإيجابي.",
+              "ownerHint": "وكيل الشؤون الطلابية / الموجه الطلابي",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "1-2-1-5~1",
+                  "title": "سجل تعزيز السلوك الإيجابي.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون الطلابية / الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/1tq5_RcmN0e5qygeZ8A7dotCyoffzXtGP",
+                  "folderId": "1tq5_RcmN0e5qygeZ8A7dotCyoffzXtGP"
+                },
+                {
+                  "id": "1-2-1-5~2",
+                  "title": "سجل لجنة التوجيه والإرشاد.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون الطلابية / الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/1gDEZJy9Mbx9vInmZ2Gfe2geewW_iYUFL",
+                  "folderId": "1gDEZJy9Mbx9vInmZ2Gfe2geewW_iYUFL"
+                },
+                {
+                  "id": "1-2-1-5~3",
+                  "title": "سجل التوجيه والإرشاد.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون الطلابية / الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/1cszPx6PsPhlhN7XjDTh2WIpbIpKg9jKE",
+                  "folderId": "1cszPx6PsPhlhN7XjDTh2WIpbIpKg9jKE"
+                },
+                {
+                  "id": "1-2-1-5~4",
+                  "title": "سجل المخالفات السلوكية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون الطلابية / الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/17tU7Yk2_nVIUbsFHkt-grsZLX7fiJWDf",
+                  "folderId": "17tU7Yk2_nVIUbsFHkt-grsZLX7fiJWDf"
+                }
+              ]
+            },
+            {
+              "code": "1-2-1-6",
+              "text": "توفر المدرسة برامج وأنشطة إثرائية غير صفية؛ لتطوير مواهب المتعلمين، وتهيئتهم للمستقبل.",
+              "ownerHint": "مدير المدرسة / وكيل الشؤون الطلابية / وكيل الشؤون التعليمية / الموجه الطلابي / رائد النشاط",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "1-2-1-6~1",
+                  "title": "سجل الأنشطة الإثرائية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون الطلابية / وكيل الشؤون التعليمية / الموجه الطلابي / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1-SYBXDWGrGe2iPO4yVZprGGOLwYBeDAo",
+                  "folderId": "1-SYBXDWGrGe2iPO4yVZprGGOLwYBeDAo"
+                },
+                {
+                  "id": "1-2-1-6~2",
+                  "title": "سجل لجنة التوجيه والإرشاد.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون الطلابية / وكيل الشؤون التعليمية / الموجه الطلابي / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1t1OfDYLIYREeTH5fesKzC4i_yC_5EjLM",
+                  "folderId": "1t1OfDYLIYREeTH5fesKzC4i_yC_5EjLM"
+                },
+                {
+                  "id": "1-2-1-6~3",
+                  "title": "سجل لجنة التميز.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون الطلابية / وكيل الشؤون التعليمية / الموجه الطلابي / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1CjIcLVTckahgdoVUT9EErJpSdBTzNbnC",
+                  "folderId": "1CjIcLVTckahgdoVUT9EErJpSdBTzNbnC"
+                },
+                {
+                  "id": "1-2-1-6~4",
+                  "title": "سجل المسابقات.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون الطلابية / وكيل الشؤون التعليمية / الموجه الطلابي / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1dT2-JW3aJolUEBdatDHJ1ZHgBAPj8VY9",
+                  "folderId": "1dT2-JW3aJolUEBdatDHJ1ZHgBAPj8VY9"
+                },
+                {
+                  "id": "1-2-1-6~5",
+                  "title": "سجل الموهوبين.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون الطلابية / وكيل الشؤون التعليمية / الموجه الطلابي / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1ucOwn_WI-BRMUGI7xcCuTQz7cKp2oyw4",
+                  "folderId": "1ucOwn_WI-BRMUGI7xcCuTQz7cKp2oyw4"
+                },
+                {
+                  "id": "1-2-1-6~6",
+                  "title": "سجل الأنشطة والبرامج.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون الطلابية / وكيل الشؤون التعليمية / الموجه الطلابي / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1vHJaz81bdqf7-fGFBAgwgfwnZEbrUpnz",
+                  "folderId": "1vHJaz81bdqf7-fGFBAgwgfwnZEbrUpnz"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "01-3",
+          "name": "المجتمع المدرسي",
+          "indicators": [
+            {
+              "code": "1-3-1-1",
+              "text": "تعزز المدرسة بناء العلاقات الإيجابية والتعاون في المجتمع المدرسي.",
+              "ownerHint": "مدير المدرسة / وكيل الشؤون التعليمية / رائد النشاط",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "1-3-1-1~1",
+                  "title": "سجل الخطة التشغيلية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون التعليمية / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1e5Y-M12rnKxp_8SCqQHBcPZ1Gst5UWW1",
+                  "folderId": "1e5Y-M12rnKxp_8SCqQHBcPZ1Gst5UWW1"
+                },
+                {
+                  "id": "1-3-1-1~2",
+                  "title": "سجل البرامج والأنشطة.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون التعليمية / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1yaoybB-191z1qOskbnjLfjZLsFHmc9fW",
+                  "folderId": "1yaoybB-191z1qOskbnjLfjZLsFHmc9fW"
+                },
+                {
+                  "id": "1-3-1-1~3",
+                  "title": "سجل النمو المهني.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون التعليمية / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1E3c-YUUkKGN0mIfp3Lchpf8LEtB7ws24",
+                  "folderId": "1E3c-YUUkKGN0mIfp3Lchpf8LEtB7ws24"
+                }
+              ]
+            },
+            {
+              "code": "1-3-1-2",
+              "text": "تعزز المدرسة مشاركة الأسرة في تعلم أبنائهم، والتحضير لمستقبلهم.",
+              "ownerHint": "مدير المدرسة / وكيل الشؤون الطلابية / الموجه الطلابي / رائد النشاط",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "1-3-1-2~1",
+                  "title": "سجل استطلاع الرأي والاستبانات.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون الطلابية / الموجه الطلابي / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1CFFbDN5At9vK101zPlzniHiBVA0SDkBe",
+                  "folderId": "1CFFbDN5At9vK101zPlzniHiBVA0SDkBe"
+                },
+                {
+                  "id": "1-3-1-2~2",
+                  "title": "سجل التواصل مع أولياء الأمور.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون الطلابية / الموجه الطلابي / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1jq7PR2T3o19Rjqm4aS_lv17S6Eg6vqgd",
+                  "folderId": "1jq7PR2T3o19Rjqm4aS_lv17S6Eg6vqgd"
+                },
+                {
+                  "id": "1-3-1-2~3",
+                  "title": "سجل ملف البرامج والأنشطة.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون الطلابية / الموجه الطلابي / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1UBLO7iAkALwNiwtIckeV9ZrPF5tOyYv9",
+                  "folderId": "1UBLO7iAkALwNiwtIckeV9ZrPF5tOyYv9"
+                },
+                {
+                  "id": "1-3-1-2~4",
+                  "title": "سجل التواصل مع الأسرة.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون الطلابية / الموجه الطلابي / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1MBdnharNr3V_rGbM374IVEkFm13u8jQi",
+                  "folderId": "1MBdnharNr3V_rGbM374IVEkFm13u8jQi"
+                },
+                {
+                  "id": "1-3-1-2~5",
+                  "title": "سجل مجالس أولياء الأمور.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون الطلابية / الموجه الطلابي / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1LALulVVNfSZV8vXGERMYlm8YvcQJfUlu",
+                  "folderId": "1LALulVVNfSZV8vXGERMYlm8YvcQJfUlu"
+                },
+                {
+                  "id": "1-3-1-2~6",
+                  "title": "سجل التوجيه والإرشاد.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون الطلابية / الموجه الطلابي / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1GaHJ-Hoa26V-qGVG3YynOOdkh5NsgRBN",
+                  "folderId": "1GaHJ-Hoa26V-qGVG3YynOOdkh5NsgRBN"
+                },
+                {
+                  "id": "1-3-1-2~7",
+                  "title": "سجل الشراكة المجتمعية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون الطلابية / الموجه الطلابي / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1ZnppiiX5w1QFqCl8X_3CLiMezMH3Olbg",
+                  "folderId": "1ZnppiiX5w1QFqCl8X_3CLiMezMH3Olbg"
+                },
+                {
+                  "id": "1-3-1-2~8",
+                  "title": "سجل الأنشطة والبرامج.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون الطلابية / الموجه الطلابي / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/183xEV2fl3nVqIwo_lnALEkV9swXATCJF",
+                  "folderId": "183xEV2fl3nVqIwo_lnALEkV9swXATCJF"
+                }
+              ]
+            },
+            {
+              "code": "1-3-1-3",
+              "text": "تعزز المدرسة الشراكة المجتمعية؛ لدعم التعلم والتأثير الإيجابي في المجتمع المحلي.",
+              "ownerHint": "مدير المدرسة / الموجه الطلابي / رائد النشاط",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "1-3-1-3~1",
+                  "title": "سجل الخطة التشغيلية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / الموجه الطلابي / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1u42xKQN_vontq6y_wA0gR7zEzivhYsKD",
+                  "folderId": "1u42xKQN_vontq6y_wA0gR7zEzivhYsKD"
+                },
+                {
+                  "id": "1-3-1-3~2",
+                  "title": "سجل البرامج والأنشطة.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / الموجه الطلابي / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1JuQS9o6vdsdJayV5tAehIeg7FtD9rsZ2",
+                  "folderId": "1JuQS9o6vdsdJayV5tAehIeg7FtD9rsZ2"
+                },
+                {
+                  "id": "1-3-1-3~3",
+                  "title": "سجل الشراكة المجتمعية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / الموجه الطلابي / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1IeupYvH5ZdylbMYzMXvWpDIhmeXh0T_d",
+                  "folderId": "1IeupYvH5ZdylbMYzMXvWpDIhmeXh0T_d"
+                },
+                {
+                  "id": "1-3-1-3~4",
+                  "title": "سجل التوجيه والإرشاد.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / الموجه الطلابي / رائد النشاط",
+                  "driveUrl": "https://drive.google.com/drive/folders/1hlM6j0neLOypeyUfaodKabh2xxe9wDKq",
+                  "folderId": "1hlM6j0neLOypeyUfaodKabh2xxe9wDKq"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "01-4",
+          "name": "التطوير المؤسسي",
+          "indicators": [
+            {
+              "code": "1-4-1-2",
+              "text": "توفر المدرسة كادراً إدارياً مكتملاً ومؤهلاً.",
+              "ownerHint": "مدير المدرسة (رابط الدليل التنظيمي)",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "1-4-1-2~1",
+                  "title": "سجل أحوال الموظفين.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة (رابط الدليل التنظيمي)",
+                  "driveUrl": "https://drive.google.com/drive/folders/1l1Ow_BC0tIAplMq5TvZs5dO526d3kryt",
+                  "folderId": "1l1Ow_BC0tIAplMq5TvZs5dO526d3kryt"
+                },
+                {
+                  "id": "1-4-1-2~2",
+                  "title": "سجل التكاليف.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة (رابط الدليل التنظيمي)",
+                  "driveUrl": "https://drive.google.com/drive/folders/1ETLayrJRe5cKJibDuyE_D2nlXcTAeWb1",
+                  "folderId": "1ETLayrJRe5cKJibDuyE_D2nlXcTAeWb1"
+                },
+                {
+                  "id": "1-4-1-2~3",
+                  "title": "سجل اللجنة الإدارية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة (رابط الدليل التنظيمي)",
+                  "driveUrl": "https://drive.google.com/drive/folders/1FsjqyLClOtB2_KiwrWn65jVj0NKY_IgT",
+                  "folderId": "1FsjqyLClOtB2_KiwrWn65jVj0NKY_IgT"
+                },
+                {
+                  "id": "1-4-1-2~4",
+                  "title": "بيانات الكادر الإداري من نظام نور.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة (رابط الدليل التنظيمي)",
+                  "driveUrl": "https://drive.google.com/drive/folders/1V8PcqoFHzsHr-X72s1iVwaYkfxoIgYdD",
+                  "folderId": "1V8PcqoFHzsHr-X72s1iVwaYkfxoIgYdD"
+                },
+                {
+                  "id": "1-4-1-2~5",
+                  "title": "سجل الوصف الوظيفي.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة (رابط الدليل التنظيمي)",
+                  "driveUrl": "https://drive.google.com/drive/folders/1WN9mp4PDoDfV7xlFwZrcT-1b_Nw5nfwj",
+                  "folderId": "1WN9mp4PDoDfV7xlFwZrcT-1b_Nw5nfwj"
+                }
+              ]
+            },
+            {
+              "code": "1-4-1-3",
+              "text": "تظهر المدرسة ثباتاً واستدامة مالية.",
+              "ownerHint": "مدير المدرسة (رابط تنظيم الميزانية)",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "1-4-1-3~1",
+                  "title": "سجل فريق الصندوق المدرسي.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة (رابط تنظيم الميزانية)",
+                  "driveUrl": "https://drive.google.com/drive/folders/1Mjt69HQr7LSzl3ujqBHQHz5Gu8zi0Q_R",
+                  "folderId": "1Mjt69HQr7LSzl3ujqBHQHz5Gu8zi0Q_R"
+                },
+                {
+                  "id": "1-4-1-3~2",
+                  "title": "الموقع الإلكتروني للمدرسة.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة (رابط تنظيم الميزانية)",
+                  "driveUrl": "https://drive.google.com/drive/folders/1cYKSYIGbYgpgi10qNT1A-vwZOPl8rWDB",
+                  "folderId": "1cYKSYIGbYgpgi10qNT1A-vwZOPl8rWDB"
+                },
+                {
+                  "id": "1-4-1-3~3",
+                  "title": "سجل الخطة المالية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة (رابط تنظيم الميزانية)",
+                  "driveUrl": "https://drive.google.com/drive/folders/1LmM0JysPHvTwyHDOeizApyZRXzXzuVB5",
+                  "folderId": "1LmM0JysPHvTwyHDOeizApyZRXzXzuVB5"
+                },
+                {
+                  "id": "1-4-1-3~4",
+                  "title": "سجل الموازنة المالية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة (رابط تنظيم الميزانية)",
+                  "driveUrl": "https://drive.google.com/drive/folders/1sFh92JX4OGWaO-5KMD2nUH1LqPa5NlFI",
+                  "folderId": "1sFh92JX4OGWaO-5KMD2nUH1LqPa5NlFI"
+                },
+                {
+                  "id": "1-4-1-3~5",
+                  "title": "سجل السياسات المالية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة (رابط تنظيم الميزانية)",
+                  "driveUrl": "https://drive.google.com/drive/folders/1lk5M9Sys38PzRkDM6HJNAmfDzxx38UI7",
+                  "folderId": "1lk5M9Sys38PzRkDM6HJNAmfDzxx38UI7"
+                },
+                {
+                  "id": "1-4-1-3~6",
+                  "title": "سجل تحصيل الرسوم.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة (رابط تنظيم الميزانية)",
+                  "driveUrl": "https://drive.google.com/drive/folders/1qfrR_kHCezY2a_OFkYyd2GS4il21EuPV",
+                  "folderId": "1qfrR_kHCezY2a_OFkYyd2GS4il21EuPV"
+                },
+                {
+                  "id": "1-4-1-3~7",
+                  "title": "استمارة الرسوم الدراسية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة (رابط تنظيم الميزانية)",
+                  "driveUrl": "https://drive.google.com/drive/folders/1sENGoBxvqPKONSFSwTgTdqJzg2-KxDVP",
+                  "folderId": "1sENGoBxvqPKONSFSwTgTdqJzg2-KxDVP"
+                }
+              ]
+            },
+            {
+              "code": "1-4-1-4",
+              "text": "تشجع المدرسة منسوبيها للحصول على الرخصة المهنية.",
+              "ownerHint": "مدير المدرسة",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "1-4-1-4~1",
+                  "title": "سجل الرخص المهنية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة",
+                  "driveUrl": "https://drive.google.com/drive/folders/1QjCDPqzcSrzxQk46ngZPJK6FlEZvuAQ1",
+                  "folderId": "1QjCDPqzcSrzxQk46ngZPJK6FlEZvuAQ1"
+                },
+                {
+                  "id": "1-4-1-4~2",
+                  "title": "سجل النمو المهني.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة",
+                  "driveUrl": "https://drive.google.com/drive/folders/19Yte7V8iexQBRvnx6nKYZabDHotntwlW",
+                  "folderId": "19Yte7V8iexQBRvnx6nKYZabDHotntwlW"
+                }
+              ]
+            },
+            {
+              "code": "1-4-1-5",
+              "text": "تدعم المدرسة التطوير المهني لمنسوبيها وفقاً لنتائج تقويم الأداء الوظيفي واحتياجاتهم.",
+              "ownerHint": "مدير المدرسة",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "1-4-1-5~1",
+                  "title": "سجل النمو المهني.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة",
+                  "driveUrl": "https://drive.google.com/drive/folders/1sFC1YWDHMVO8TWcz0EjNCeHAxtb-xCZS",
+                  "folderId": "1sFC1YWDHMVO8TWcz0EjNCeHAxtb-xCZS"
+                }
+              ]
+            },
+            {
+              "code": "1-4-1-6",
+              "text": "تطبق المدرسة التقويم الذاتي المبني على المعايير المعتمدة من الهيئة.",
+              "ownerHint": "مدير المدرسة",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "1-4-1-6~1",
+                  "title": "سجل لجنة التميز المدرسي.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة",
+                  "driveUrl": "https://drive.google.com/drive/folders/1u7-6mgk2qCdrtL30X_BopxPb0ad21tST",
+                  "folderId": "1u7-6mgk2qCdrtL30X_BopxPb0ad21tST"
+                },
+                {
+                  "id": "1-4-1-6~2",
+                  "title": "سجل التقويم الذاتي.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة",
+                  "driveUrl": "https://drive.google.com/drive/folders/1L-hgYNMLfbw1KCEgQpA8wJf0BmnYH2V6",
+                  "folderId": "1L-hgYNMLfbw1KCEgQpA8wJf0BmnYH2V6"
+                }
+              ]
+            },
+            {
+              "code": "1-4-1-7",
+              "text": "تنفذ المدرسة خطة للتحسين بناء على نتائج التقويم المدرسي، وتتابعه.",
+              "ownerHint": "مدير المدرسة",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "1-4-1-7~1",
+                  "title": "سجل تطوير وتحسين الخطة التشغيلية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة",
+                  "driveUrl": "https://drive.google.com/drive/folders/1LibfArcT6GjJY5Z5unNFz8JxTubKKvN5",
+                  "folderId": "1LibfArcT6GjJY5Z5unNFz8JxTubKKvN5"
+                },
+                {
+                  "id": "1-4-1-7~2",
+                  "title": "سجل اللجنة الإدارية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة",
+                  "driveUrl": "https://drive.google.com/drive/folders/1Cpux1JGa1nZCTtXEBM2KkxU6ENY2TsIm",
+                  "folderId": "1Cpux1JGa1nZCTtXEBM2KkxU6ENY2TsIm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "name": "التعليم والتعلم",
+      "accent": "blue",
+      "standards": [
+        {
+          "id": "02-1",
+          "name": "بناء خبرات التعلم",
+          "indicators": [
+            {
+              "code": "2-1-1-1",
+              "text": "توفر المدرسة فرصاً متكافئة للتعلم تلبي احتياجات المتعلمين بمن فيهم ذوو الإعاقة والموهوبون.",
+              "ownerHint": "وكيل الشؤون المدرسية",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "2-1-1-1~1",
+                  "title": "سجل الصيانة.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون المدرسية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1RWPXP6bZXnbb_tYncXAiga-ueeghBJ8R",
+                  "folderId": "1RWPXP6bZXnbb_tYncXAiga-ueeghBJ8R"
+                }
+              ]
+            },
+            {
+              "code": "2-1-1-10",
+              "text": "تعزز المدرسة دافعية المتعلمين للتعلم والاستمتاع به.",
+              "ownerHint": "وكيل الشؤون التعليمية",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "2-1-1-10~1",
+                  "title": "ملفات إنجاز المتعلمين.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1UHcCFUYeqsemWMVhgPW8sOk3BUOo4Dpq",
+                  "folderId": "1UHcCFUYeqsemWMVhgPW8sOk3BUOo4Dpq"
+                }
+              ]
+            },
+            {
+              "code": "2-1-1-2",
+              "text": "تدعم المدرسة تنفيذ المناهج؛ لتحقيق نواتج التعلم المستهدفة وفق الخطة الدراسية.",
+              "ownerHint": "وكيل الشؤون التعليمية",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "2-1-1-2~1",
+                  "title": "عينة من خطة توزيع المنهج.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية",
+                  "driveUrl": "https://drive.google.com/drive/folders/18r0e1ocMAWlDBDjpjxT1jOpKBXGTsJ-x",
+                  "folderId": "18r0e1ocMAWlDBDjpjxT1jOpKBXGTsJ-x"
+                },
+                {
+                  "id": "2-1-1-2~2",
+                  "title": "ملف متابعة تنفيذ المنهج.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1ewXa5lOt7r5R_cCe8zi4Gb7BzZSpzQ7-",
+                  "folderId": "1ewXa5lOt7r5R_cCe8zi4Gb7BzZSpzQ7-"
+                },
+                {
+                  "id": "2-1-1-2~3",
+                  "title": "عينة من ملفات إنجاز المعلمين.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1PG6M8fdrddHnp_GLI6AoNUtMvW49roS1",
+                  "folderId": "1PG6M8fdrddHnp_GLI6AoNUtMvW49roS1"
+                },
+                {
+                  "id": "2-1-1-2~4",
+                  "title": "عينة من الأنشطة الصفية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1vgMAlTtL-CQZQZoc1V3hpN_eks_5yAdd",
+                  "folderId": "1vgMAlTtL-CQZQZoc1V3hpN_eks_5yAdd"
+                }
+              ]
+            },
+            {
+              "code": "2-1-1-3",
+              "text": "تنوع المدرسة في استراتيجيات التدريس لتلبية احتياجات المتعلمين، ودعم تعلمهم.",
+              "ownerHint": "وكيل الشؤون التعليمية",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "2-1-1-3~1",
+                  "title": "ملفات إنجاز المعلمين.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1wW50MYLTguZZRJoELLzG5p_6v0qk3R5M",
+                  "folderId": "1wW50MYLTguZZRJoELLzG5p_6v0qk3R5M"
+                }
+              ]
+            },
+            {
+              "code": "2-1-1-4",
+              "text": "تفعل المدرسة التعلم الإلكتروني؛ لتلبية احتياجات المتعلمين ودعم تعلمهم.",
+              "ownerHint": "وكيل الشؤون التعليمية",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "2-1-1-4~1",
+                  "title": "ملفات إنجاز المعلمين.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية",
+                  "driveUrl": "https://drive.google.com/drive/folders/182XizuT_Tr1CAne76fpwWlrxijMZQirO",
+                  "folderId": "182XizuT_Tr1CAne76fpwWlrxijMZQirO"
+                },
+                {
+                  "id": "2-1-1-4~2",
+                  "title": "تقارير منصة مدرستي.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1tI5bq7-cQTnaNtYjXYXiPD8pbsUZoGKE",
+                  "folderId": "1tI5bq7-cQTnaNtYjXYXiPD8pbsUZoGKE"
+                }
+              ]
+            },
+            {
+              "code": "2-1-1-5",
+              "text": "توفر المدرسة أنشطة تعلم تطبيقية ترتبط بحياة المتعلمين.",
+              "ownerHint": "وكيل الشؤون التعليمية",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "2-1-1-5~1",
+                  "title": "ملفات إنجاز المعلمين.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1kfE7HCUrgql5HkxwdKFWixATLf6WiXjg",
+                  "folderId": "1kfE7HCUrgql5HkxwdKFWixATLf6WiXjg"
+                },
+                {
+                  "id": "2-1-1-5~2",
+                  "title": "عينة من الأنشطة الصفية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1OKGzehKQWEArTsYamMY0mAN_smIiEjFo",
+                  "folderId": "1OKGzehKQWEArTsYamMY0mAN_smIiEjFo"
+                }
+              ]
+            },
+            {
+              "code": "2-1-1-6",
+              "text": "تنمي المدرسة المهارات القرائية والعددية الأساسية لدى المتعلمين.",
+              "ownerHint": "وكيل الشؤون التعليمية - وكيل الشؤون الطلابية",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "2-1-1-6~1",
+                  "title": "سجل الأنشطة الإثرائية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية - وكيل الشؤون الطلابية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1wl44Lp4ZKG3mKQUM2sKA24NI-_JQJjGo",
+                  "folderId": "1wl44Lp4ZKG3mKQUM2sKA24NI-_JQJjGo"
+                },
+                {
+                  "id": "2-1-1-6~2",
+                  "title": "سجل الأنشطة العلاجية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية - وكيل الشؤون الطلابية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1TV9t8e30BzohAUgXUb7EG8useJj7VnoY",
+                  "folderId": "1TV9t8e30BzohAUgXUb7EG8useJj7VnoY"
+                },
+                {
+                  "id": "2-1-1-6~3",
+                  "title": "سجل المسابقات.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية - وكيل الشؤون الطلابية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1rR-GXsNGZ4yfTuWigKOgUCTZxC3b6YW1",
+                  "folderId": "1rR-GXsNGZ4yfTuWigKOgUCTZxC3b6YW1"
+                },
+                {
+                  "id": "2-1-1-6~4",
+                  "title": "نتائج الاختبارات الدولية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية - وكيل الشؤون الطلابية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1RWQD5nyWNNslMxpuczSJbuYMVSekiDWD",
+                  "folderId": "1RWQD5nyWNNslMxpuczSJbuYMVSekiDWD"
+                },
+                {
+                  "id": "2-1-1-6~5",
+                  "title": "سجل تحدي القراءة.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية - وكيل الشؤون الطلابية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1cU1axNZjN6156cd_p7-aXPWQCalOx5B7",
+                  "folderId": "1cU1axNZjN6156cd_p7-aXPWQCalOx5B7"
+                },
+                {
+                  "id": "2-1-1-6~6",
+                  "title": "سجل سد الفجوة (الرياضيات).",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية - وكيل الشؤون الطلابية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1SNWrTjXzRzcMXlIA73hKYEcBjEXA8xY-",
+                  "folderId": "1SNWrTjXzRzcMXlIA73hKYEcBjEXA8xY-"
+                }
+              ]
+            },
+            {
+              "code": "2-1-1-7",
+              "text": "تنمي المدرسة مهارات التفكير العليا لدى المتعلمين.",
+              "ownerHint": "وكيل الشؤون الطلابية",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "2-1-1-7~1",
+                  "title": "عينة من الأنشطة الصفية الخاصة بالمتعلمين.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون الطلابية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1XWkbf9i5Ae23t4LITBT7XmPUdtP8afJm",
+                  "folderId": "1XWkbf9i5Ae23t4LITBT7XmPUdtP8afJm"
+                }
+              ]
+            },
+            {
+              "code": "2-1-1-8",
+              "text": "تنمي المدرسة المهارات العاطفية والاجتماعية لدى المتعلمين.",
+              "ownerHint": "الموجه الطلابي",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "2-1-1-8~1",
+                  "title": "سجل التوجيه والإرشاد.",
+                  "kind": "شاهد توثيقي",
+                  "role": "الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/1xkw_fMbNvcgiQ-Aq9537H3dlLg9OqaBz",
+                  "folderId": "1xkw_fMbNvcgiQ-Aq9537H3dlLg9OqaBz"
+                }
+              ]
+            },
+            {
+              "code": "2-1-1-9",
+              "text": "تنمي المدرسة المهارات الرقمية لدى المتعلمين.",
+              "ownerHint": "وكيل الشؤون التعليمية",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "2-1-1-9~1",
+                  "title": "تقرير منصة مدرستي.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1zJMTLs5vWyBSSc4KozGKyunPxplLm4zR",
+                  "folderId": "1zJMTLs5vWyBSSc4KozGKyunPxplLm4zR"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "02-2",
+          "name": "تقويم التعلم",
+          "indicators": [
+            {
+              "code": "2-2-1-1",
+              "text": "تقوم المدرسة أداء المتعلمين باستخدام أساليب وأدوات تقويم متنوعة وفاعلة.",
+              "ownerHint": "وكيل الشؤون التعليمية / وكيل الشؤون الطلابية",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "2-2-1-1~1",
+                  "title": "عينة من الأنشطة الصفية الخاصة بالمتعلمين.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية / وكيل الشؤون الطلابية",
+                  "driveUrl": "https://drive.google.com/drive/folders/14t-2KHkRNZnzs1_4dr9SjvZyd6OPHCvR",
+                  "folderId": "14t-2KHkRNZnzs1_4dr9SjvZyd6OPHCvR"
+                },
+                {
+                  "id": "2-2-1-1~2",
+                  "title": "سجل تحضير الدروس.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية / وكيل الشؤون الطلابية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1ULA5uKd-v5Iebu7AUUAZsb9qVI766oCa",
+                  "folderId": "1ULA5uKd-v5Iebu7AUUAZsb9qVI766oCa"
+                },
+                {
+                  "id": "2-2-1-1~3",
+                  "title": "سجل النمو المهني.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية / وكيل الشؤون الطلابية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1Fkjy2cSjpJ4bVM8rU1qX7bHVPKv50W32",
+                  "folderId": "1Fkjy2cSjpJ4bVM8rU1qX7bHVPKv50W32"
+                }
+              ]
+            },
+            {
+              "code": "2-2-1-2",
+              "text": "تحلل المدرسة نتائج التقويم وتوظفها في تحسين نواتج التعلم بانتظام.",
+              "ownerHint": "مدير المدرسة / وكيل الشؤون الطلابية",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "2-2-1-2~1",
+                  "title": "سجل تحليل النتائج (لتخصصات متنوعة).",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون الطلابية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1R0Q_jge8Rb21C4m-v3wFM3SbfmchkOo2",
+                  "folderId": "1R0Q_jge8Rb21C4m-v3wFM3SbfmchkOo2"
+                },
+                {
+                  "id": "2-2-1-2~2",
+                  "title": "سجل الأنشطة العلاجية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون الطلابية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1EkN1m_jl1NzZ7OXVufnhakpRv-0ihRVH",
+                  "folderId": "1EkN1m_jl1NzZ7OXVufnhakpRv-0ihRVH"
+                },
+                {
+                  "id": "2-2-1-2~3",
+                  "title": "سجل الأنشطة الإثرائية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون الطلابية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1wxYW-pQ8P5f4U6ZOaCV8X-s1nvS3jMzG",
+                  "folderId": "1wxYW-pQ8P5f4U6ZOaCV8X-s1nvS3jMzG"
+                },
+                {
+                  "id": "2-2-1-2~4",
+                  "title": "سجل لجنة التحصيل الدراسي.",
+                  "kind": "شاهد توثيقي",
+                  "role": "مدير المدرسة / وكيل الشؤون الطلابية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1Qmarh0DtPNEvWpIC4cxg0yi4fnV7QLs4",
+                  "folderId": "1Qmarh0DtPNEvWpIC4cxg0yi4fnV7QLs4"
+                }
+              ]
+            },
+            {
+              "code": "2-2-1-3",
+              "text": "تقدم المدرسة التغذية الراجعة للمتعلمين بانتظام.",
+              "ownerHint": "وكيل الشؤون التعليمية",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "2-2-1-3~1",
+                  "title": "سجل متابعة أداء المتعلمين.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1EAxRDEAhMOSkIPeys19TnJau3p-G_iOg",
+                  "folderId": "1EAxRDEAhMOSkIPeys19TnJau3p-G_iOg"
+                },
+                {
+                  "id": "2-2-1-3~2",
+                  "title": "سجل إنجاز المتعلمين / الكتب.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1vkT8rLPhi85rsRzoFWBRkAfdqE9pc2vK",
+                  "folderId": "1vkT8rLPhi85rsRzoFWBRkAfdqE9pc2vK"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "name": "نواتج التعلم",
+      "accent": "amber",
+      "standards": [
+        {
+          "id": "03-1",
+          "name": "التحصيل الدراسي",
+          "indicators": [
+            {
+              "code": "3-1-1-1",
+              "text": "يحقق المتعلمون نتائج متقدمة في مجال القراءة وفقاً للاختبارات الوطنية.",
+              "ownerHint": "وكيل الشؤون التعليمية",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "3-1-1-1~1",
+                  "title": "نتائج الطلاب في الاختبارات الوطنية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1Wdo-g7vbiu5j3MPwMolxK774z5-5oduN",
+                  "folderId": "1Wdo-g7vbiu5j3MPwMolxK774z5-5oduN"
+                }
+              ]
+            },
+            {
+              "code": "3-1-1-2",
+              "text": "يحقق المتعلمون نتائج متقدمة في مجال الرياضيات وفقاً للاختبارات الوطنية.",
+              "ownerHint": "وكيل الشؤون التعليمية",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "3-1-1-2~1",
+                  "title": "نتائج الطلاب في الاختبارات الوطنية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1ge8XCD9CqWwB27mYAveMNmgaah3iupqz",
+                  "folderId": "1ge8XCD9CqWwB27mYAveMNmgaah3iupqz"
+                }
+              ]
+            },
+            {
+              "code": "3-1-1-3",
+              "text": "يحقق المتعلمون نتائج متقدمة في مجال العلوم وفقاً للاختبارات الوطنية.",
+              "ownerHint": "وكيل الشؤون التعليمية",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "3-1-1-3~1",
+                  "title": "نتائج الطلاب في الاختبارات الوطنية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1_60WIm05y7afzzr6Tfo235Sp2BugGphM",
+                  "folderId": "1_60WIm05y7afzzr6Tfo235Sp2BugGphM"
+                }
+              ]
+            },
+            {
+              "code": "3-1-1-4",
+              "text": "يحقق المتعلمون تقدماً في مجال القراءة قياساً على مستوى أداء المدرسة السابق في الاختبارات الوطنية.",
+              "ownerHint": "وكيل الشؤون التعليمية",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "3-1-1-4~1",
+                  "title": "نتائج الطلاب في الاختبارات الوطنية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية",
+                  "driveUrl": "https://drive.google.com/drive/folders/132tSP1l7T9SeheBmy6fGqQ77568Oo3ef",
+                  "folderId": "132tSP1l7T9SeheBmy6fGqQ77568Oo3ef"
+                }
+              ]
+            },
+            {
+              "code": "3-1-1-5",
+              "text": "يحقق المتعلمون تقدماً في مجال الرياضيات قياساً على مستوى أداء المدرسة السابق في الاختبارات الوطنية.",
+              "ownerHint": "وكيل الشؤون التعليمية",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "3-1-1-5~1",
+                  "title": "نتائج الطلاب في الاختبارات الوطنية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1kD0e6t2ax7KYK9N4njP1TSSuzOATo9I2",
+                  "folderId": "1kD0e6t2ax7KYK9N4njP1TSSuzOATo9I2"
+                }
+              ]
+            },
+            {
+              "code": "3-1-1-6",
+              "text": "يحقق المتعلمون تقدماً في مجال العلوم قياساً على مستوى أداء المدرسة السابق في الاختبارات الوطنية.",
+              "ownerHint": "وكيل الشؤون التعليمية",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "3-1-1-6~1",
+                  "title": "نتائج الطلاب في الاختبارات الوطنية.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية",
+                  "driveUrl": "https://drive.google.com/drive/folders/1NDyRhDXktjiSP6RsrviUDYcFDALWj59k",
+                  "folderId": "1NDyRhDXktjiSP6RsrviUDYcFDALWj59k"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "03-2",
+          "name": "التطور الشخصي والصحي والاجتماعي",
+          "indicators": [
+            {
+              "code": "3-2-1-1",
+              "text": "يظهر المتعلمون الاعتزاز بالقيم الدينية والهوية الوطنية",
+              "ownerHint": "وكيل شؤون الطلاب – الموجه الطلابي",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "3-2-1-1~1",
+                  "title": "سجل التوجيه والإرشاد",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل شؤون الطلاب – الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/198fWmpUVy-8KOx6sAoDhdKbj_W9fEZ1Q",
+                  "folderId": "198fWmpUVy-8KOx6sAoDhdKbj_W9fEZ1Q"
+                }
+              ]
+            },
+            {
+              "code": "3-2-1-2",
+              "text": "يظهر المتعلمون اتجاهات إيجابية نحو ذواتهم",
+              "ownerHint": "وكيل شؤون الطلاب – الموجه الطلابي",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "3-2-1-2~1",
+                  "title": "سجل التوجيه والإرشاد",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل شؤون الطلاب – الموجه الطلابي",
+                  "driveUrl": "https://drive.google.com/drive/folders/1jAff3xKNjeGXYVNQDNbQQVxTc8FFwBaw",
+                  "folderId": "1jAff3xKNjeGXYVNQDNbQQVxTc8FFwBaw"
+                }
+              ]
+            },
+            {
+              "code": "3-2-1-3",
+              "text": "يظهر المتعلمون التزاماً بالممارسات الصحية السليمة.",
+              "ownerHint": "وكيل شؤون الطلاب - الموجه الطلابي.",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "3-2-1-3~1",
+                  "title": "سجل الموجه الصحي.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل شؤون الطلاب - الموجه الطلابي.",
+                  "driveUrl": "https://drive.google.com/drive/folders/1vhtQwCqM6naQ2Mo6CFqOFfaJdvSJj8JB",
+                  "folderId": "1vhtQwCqM6naQ2Mo6CFqOFfaJdvSJj8JB"
+                }
+              ]
+            },
+            {
+              "code": "3-2-1-4",
+              "text": "يشارك المتعلمون في الأنشطة المجتمعية والأعمال التطوعية.",
+              "ownerHint": "وكيل شؤون الطلاب / الموجه الطلابي.",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "3-2-1-4~1",
+                  "title": "سجل العمل التطوعي،",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل شؤون الطلاب / الموجه الطلابي.",
+                  "driveUrl": "https://drive.google.com/drive/folders/1Rlm6IZEh9O36Vwa3hBuNt0A45rBTbmCF",
+                  "folderId": "1Rlm6IZEh9O36Vwa3hBuNt0A45rBTbmCF"
+                },
+                {
+                  "id": "3-2-1-4~2",
+                  "title": "سجل التوجيه الطلابي.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل شؤون الطلاب / الموجه الطلابي.",
+                  "driveUrl": "https://drive.google.com/drive/folders/1xDId9MvKfFROXljWIyuCaz0kaS70J9D2",
+                  "folderId": "1xDId9MvKfFROXljWIyuCaz0kaS70J9D2"
+                }
+              ]
+            },
+            {
+              "code": "3-2-1-5",
+              "text": "يلتزم المتعلمون بقواعد السلوك والانضباط المدرسي.",
+              "ownerHint": "وكيل الشؤون الطلابية / الموجه الطلابي.",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "3-2-1-5~1",
+                  "title": "سجل المخالفات السلوكية،",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون الطلابية / الموجه الطلابي.",
+                  "driveUrl": "https://drive.google.com/drive/folders/17eSe5fzscIxklpjzgCc2SMqCmKnxL7wz",
+                  "folderId": "17eSe5fzscIxklpjzgCc2SMqCmKnxL7wz"
+                },
+                {
+                  "id": "3-2-1-5~2",
+                  "title": "سجل الانضباط المدرسي،",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون الطلابية / الموجه الطلابي.",
+                  "driveUrl": "https://drive.google.com/drive/folders/1djCEOwrjUaaB9xtlMYYt38N9MFxWnON5",
+                  "folderId": "1djCEOwrjUaaB9xtlMYYt38N9MFxWnON5"
+                },
+                {
+                  "id": "3-2-1-5~3",
+                  "title": "سجل التوجيه الطلابي،",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون الطلابية / الموجه الطلابي.",
+                  "driveUrl": "https://drive.google.com/drive/folders/1ty2l-WU4cmkSd9GNWFpn8_nuqi9RA3PY",
+                  "folderId": "1ty2l-WU4cmkSd9GNWFpn8_nuqi9RA3PY"
+                },
+                {
+                  "id": "3-2-1-5~4",
+                  "title": "سجل التكريم والتحفيز.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون الطلابية / الموجه الطلابي.",
+                  "driveUrl": "https://drive.google.com/drive/folders/1UJU_l5CB2C9YODXejCOtOJM5oTx_Dppr",
+                  "folderId": "1UJU_l5CB2C9YODXejCOtOJM5oTx_Dppr"
+                }
+              ]
+            },
+            {
+              "code": "3-2-1-6",
+              "text": "يظهر المتعلمون القدرة على البحث والتعلم الذاتي.",
+              "ownerHint": "وكيل الشؤون التعليمية.",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "3-2-1-6~1",
+                  "title": "ملفات إنجاز المعلمين والمتعلمين.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون التعليمية.",
+                  "driveUrl": "https://drive.google.com/drive/folders/1H1Lx8Jen3PZcXirkMobdpwSxgt1QnCMp",
+                  "folderId": "1H1Lx8Jen3PZcXirkMobdpwSxgt1QnCMp"
+                }
+              ]
+            },
+            {
+              "code": "3-2-1-7",
+              "text": "يظهر المتعلمون اعتزازاً بثقافتهم واحتراماً للتنوع الثقافي في المجتمع.",
+              "ownerHint": "رائد النشاط.",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "3-2-1-7~1",
+                  "title": "سجل رائد النشاط.",
+                  "kind": "شاهد توثيقي",
+                  "role": "رائد النشاط.",
+                  "driveUrl": "https://drive.google.com/drive/folders/1XpP3f_Ihtyk9ftBM3pvRnjWElRdLjb38",
+                  "folderId": "1XpP3f_Ihtyk9ftBM3pvRnjWElRdLjb38"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "name": "البيئة المدرسية",
+      "accent": "plum",
+      "standards": [
+        {
+          "id": "04-1",
+          "name": "المبنى المدرسي",
+          "indicators": [
+            {
+              "code": "1-1-1-4",
+              "text": "تنظيم مبنى المدرسة ملائم لعدد المتعلمين والمرحلة العمرية.",
+              "ownerHint": "وكيل الشؤون المدرسية.",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "1-1-1-4~1",
+                  "title": "سجل الصيانة.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون المدرسية.",
+                  "driveUrl": "https://drive.google.com/drive/folders/1X4ttRpi1ruekK6ToXrg1Ef7RuSk6ENR7",
+                  "folderId": "1X4ttRpi1ruekK6ToXrg1Ef7RuSk6ENR7"
+                }
+              ]
+            },
+            {
+              "code": "2-1-1-4",
+              "text": "تتوافر فصول ومعامل للعملية التعليمية تلبي احتياجات المتعلمين بمن فيهم ذوو الإعاقة.",
+              "ownerHint": "وكيل الشؤون المدرسية.",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "2-1-1-4~1",
+                  "title": "سجل الصيانة.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون المدرسية.",
+                  "driveUrl": "https://drive.google.com/drive/folders/1gbqp3Qf_WtdjwLTdcPSmDqcu9HYZ_UaV",
+                  "folderId": "1gbqp3Qf_WtdjwLTdcPSmDqcu9HYZ_UaV"
+                }
+              ]
+            },
+            {
+              "code": "3-1-1-4",
+              "text": "تلبي المرافق والخدمات المساندة احتياجات المتعلمين بمن فيهم ذوو الإعاقة.",
+              "ownerHint": "وكيل الشؤون المدرسية.",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "3-1-1-4~1",
+                  "title": "سجل الصيانة.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون المدرسية.",
+                  "driveUrl": "https://drive.google.com/drive/folders/15NPuR_Fxn7gI7LwLpHSgPItRWVNk29-2",
+                  "folderId": "15NPuR_Fxn7gI7LwLpHSgPItRWVNk29-2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "04-2",
+          "name": "الأمن والسلامة",
+          "indicators": [
+            {
+              "code": "1-1-2-4",
+              "text": "تتوافر في فصول المدرسة ومعاملها وجميع مرافقها متطلبات الأمن والسلامة.",
+              "ownerHint": "وكيل الشؤون المدرسية.",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "1-1-2-4~1",
+                  "title": "سجل الأمن والسلامة،",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون المدرسية.",
+                  "driveUrl": "https://drive.google.com/drive/folders/1h0_bo3CMu7DKKq478gwDHHaxUo_6HErx",
+                  "folderId": "1h0_bo3CMu7DKKq478gwDHHaxUo_6HErx"
+                },
+                {
+                  "id": "1-1-2-4~2",
+                  "title": "سجل الموجه الصحي.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون المدرسية.",
+                  "driveUrl": "https://drive.google.com/drive/folders/1mtIQ8Iuay81qg4AbOsjZX06hIhT_-Is-",
+                  "folderId": "1mtIQ8Iuay81qg4AbOsjZX06hIhT_-Is-"
+                }
+              ]
+            },
+            {
+              "code": "2-1-2-4",
+              "text": "تعمل المدرسة على صيانة جميع مرافق المبنى وتجهيزاته بانتظام.",
+              "ownerHint": "وكيل الشؤون المدرسية.",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "2-1-2-4~1",
+                  "title": "سجل الصيانة.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون المدرسية.",
+                  "driveUrl": "https://drive.google.com/drive/folders/1_uQF-WETpEhyCemxAEz5qSMhDPGPuWK8",
+                  "folderId": "1_uQF-WETpEhyCemxAEz5qSMhDPGPuWK8"
+                }
+              ]
+            },
+            {
+              "code": "3-1-2-4",
+              "text": "تعمل المدرسة على نظافة المبنى المدرسي وجميع مرافقه بانتظام.",
+              "ownerHint": "وكيل الشؤون المدرسية.",
+              "scope": "",
+              "slots": [
+                {
+                  "id": "3-1-2-4~1",
+                  "title": "سجل الصيانة.",
+                  "kind": "شاهد توثيقي",
+                  "role": "وكيل الشؤون المدرسية.",
+                  "driveUrl": "https://drive.google.com/drive/folders/171keGisAsPy-JRbjPf0gme9PLAvjXalv",
+                  "folderId": "171keGisAsPy-JRbjPf0gme9PLAvjXalv"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
