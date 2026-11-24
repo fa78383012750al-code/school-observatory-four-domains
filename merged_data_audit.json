@@ -11,6 +11,7 @@
       "id": "01",
       "name": "الإدارة المدرسية",
       "accent": "teal",
+      "sourceUrl": "https://fa78383012750al-code.github.io/school-domain-1-administration/",
       "standards": [
         {
           "id": "01-1",
@@ -786,6 +787,7 @@
       "id": "02",
       "name": "التعليم والتعلم",
       "accent": "blue",
+      "sourceUrl": "https://fa78383012750al-code.github.io/school-domain-2-teaching-learning/",
       "standards": [
         {
           "id": "02-1",
@@ -1141,6 +1143,7 @@
       "id": "03",
       "name": "نواتج التعلم",
       "accent": "amber",
+      "sourceUrl": "https://fa78383012750al-code.github.io/school-domain-3-learning-outcomes/",
       "standards": [
         {
           "id": "03-1",
@@ -1400,6 +1403,7 @@
       "id": "04",
       "name": "البيئة المدرسية",
       "accent": "plum",
+      "sourceUrl": "https://fa78383012750al-code.github.io/school-domain-4-school-environment/",
       "standards": [
         {
           "id": "04-1",
